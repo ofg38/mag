@@ -1,5 +1,7 @@
-"name": "operator",
-  "website": "https://www.forexample.com",
-  "description": "I operate on some data",
-  "logo": "https://www.forexample.com/logo.png",
-  "twitter": "https://etzell__"
+{
+"name": "my operator",
+  "website": "https://www.myoperatorofg.com",
+  "description": "My operator on some data veri",
+  "logo": "https://www.myoperatorofg.com/logo.png",
+  "twitter": "https://x.com/etzell__"
+}
